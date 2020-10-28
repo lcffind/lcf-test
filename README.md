@@ -1,4 +1,4 @@
-# myui
+# cfui
 
 ## Project setup
 ```
